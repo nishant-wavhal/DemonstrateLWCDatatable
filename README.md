@@ -10,14 +10,14 @@
         - Registration Date Date True
         - Revenue
     - UI :
-        - Lightning Web Component to Display Revenue Grouped through Datatable with sort and pagination.
+        - Lightning Web Component to Display Revenue Grouped through Datatable with sort 
+          and pagination.
     - Server :
         - Apex Class to Process in a aggregated manner and send it 
     .
         - Cover the the Apex classes by Validating the scenarios in Test classes
 # Assumption
-    - IDP  is already taking care of UUID generatiom which need to be populated on Salesforce Contact / 
-     Customer User Provisioning.
+    - Org is Multi Currency Enabled
 # How to do?
     - Clean Code Practices
     - Test Driven Development
