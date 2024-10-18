@@ -1,6 +1,6 @@
 ## Use Case Demonstarting LWC component
-      As a Sales User I want an overview of an accounts revenue so that I can prioritize what accounts my
-      team should work on
+      As a Sales User I want an overview of an accounts revenue so that I can prioritize what 
+      accounts.
 ## What to Do?
     - DataModel :
         Build Revenue Custom Obeject with fields:
@@ -24,4 +24,4 @@
     - OOPS
     - Salesforce Best Practices
 ## Final Output
- ![alt text](https://github.com/nishant-wavhal/DemonstrateLWCDatatable/blob/main/Recipe1.png)
+ ![alt text](https://github.com/nishant-wavhal/DemonstrateLWCDatatable/blob/master/Recipe1.PNG)
