@@ -1,18 +1,35 @@
-# Salesforce DX Project: Next Steps
+## Use Case Demonstarting LWC component
+      As a Sales User I want an overview of an accounts revenue so that I can prioritize what accounts my
+      team should work on
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+## What to Do?
 
-## How Do You Plan to Deploy Your Changes?
+    - DataModel :
+        Build Revenue Custom Obeject with fields:
+        - Brand Picklist 
+        - Model Picklist 
+        - Account Lookup
+        - Registration Date Date True
+        - Revenue
+    - UI :
+        - Lightning Web Component to Display Revenue Grouped through Datatable with sort and pagination.
+    - Server :
+        - Apex Class to Process in a aggregated manner and send it 
+    .
+        - Cover the the Apex classes by Validating the scenarios in Test classes
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+## Assumption
+    - IDP  is already taking care of UUID generatiom which need to be populated on Salesforce Contact / 
+     Customer User Provisioning.
 
-## Configure Your Salesforce DX Project
+## How to do?
+    - Clean Code Practices
+    - Test Driven Development
+    - OOPS
+    - Salesforce Best Practices
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
 
-## Read All About It
+## Final Output
 
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+
+ ![alt text](https://github.com/nishant-wavhal/N26ChallengeTask/blob/main/N26UseCase2.png)
