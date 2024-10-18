@@ -24,4 +24,5 @@
     - OOPS
     - Salesforce Best Practices
 # Final Output
+
  ![alt text](https://github.com/nishant-wavhal/DemonstrateLWCDatatable/blob/master/Recipe1.PNG)
