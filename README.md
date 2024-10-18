@@ -32,4 +32,4 @@
 ## Final Output
 
 
- ![alt text](https://github.com/nishant-wavhal/N26ChallengeTask/blob/main/N26UseCase2.png)
+ ![alt text](https://github.com/nishant-wavhal/DemonstrateLWCDatatable/blob/main/Reciepe1.png)
