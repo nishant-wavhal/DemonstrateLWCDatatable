@@ -1,9 +1,7 @@
 ## Use Case Demonstarting LWC component
       As a Sales User I want an overview of an accounts revenue so that I can prioritize what accounts my
       team should work on
-
 ## What to Do?
-
     - DataModel :
         Build Revenue Custom Obeject with fields:
         - Brand Picklist 
@@ -17,19 +15,13 @@
         - Apex Class to Process in a aggregated manner and send it 
     .
         - Cover the the Apex classes by Validating the scenarios in Test classes
-
 ## Assumption
     - IDP  is already taking care of UUID generatiom which need to be populated on Salesforce Contact / 
      Customer User Provisioning.
-
 ## How to do?
     - Clean Code Practices
     - Test Driven Development
     - OOPS
     - Salesforce Best Practices
-
-
 ## Final Output
-
-
- ![alt text](https://github.com/nishant-wavhal/DemonstrateLWCDatatable/blob/main/Reciepe1.png)
+ ![alt text](https://github.com/nishant-wavhal/DemonstrateLWCDatatable/blob/main/Recipe1.png)
