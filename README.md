@@ -1,6 +1,6 @@
 # Use Case Demonstarting LWC component
       As a Sales User I want an overview of an accounts revenue so that I can prioritize what 
-      accounts.
+      accounts for sales.
 # What to Do?
     - DataModel :
         Build Revenue Custom Obeject with fields:
